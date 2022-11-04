@@ -1,2 +1,3 @@
-# Computer-based-Simulation
+# Compute
+
 Clase de simulacion TECMM
